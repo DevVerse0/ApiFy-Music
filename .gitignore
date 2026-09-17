@@ -1,0 +1,9 @@
+# secrets — never push
+.env
+*.pem
+*.key
+
+# deps / build
+__pycache__/
+.venv/
+*.pyc
